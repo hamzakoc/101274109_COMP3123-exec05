@@ -9,10 +9,10 @@
   "author": "Hamza Koc - Exercise Lab 05",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.20.0"
   },
   "description": "",
   "devDependencies": {
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.22"
   }
 }
